@@ -1,3 +1,19 @@
+*{
+    font-family: 'Saira Condensed', sans-serif;
+}
 #canvas{
     border: solid;
+    color: aliceblue;
+    border-width: 5px;
+}
+body{
+    background-color: #488E4C;
+}
+body h1{
+    color: aliceblue;
+}
+#button{
+    width: 12%;
+    height: 50px;
+    font-size: 40px;
 }
